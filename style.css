@@ -1,0 +1,23 @@
+div{
+    background-color: bisque;
+}
+.{
+    text-align: center;
+    font-size: 55;
+}
+#p{
+    font-size: 55;
+    text-align: center;
+}
+#welcome{
+    color: red;
+    font-size: 500%;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 2px 5px 10px blue;
+}
+h2{
+    font-size: 300%;
+    text-align: center;
+    
+}

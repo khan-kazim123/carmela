@@ -1,0 +1,35 @@
+.{
+    background-color: black;
+}
+#form{
+    background: red;
+    font-size: 400%;
+    text-align: center;
+    font-family: cursive;
+}
+#whole{
+    background-color: greenyellow;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22;
+    padding: 110;
+    text-align: center;
+}
+#personal{
+    background-color: aquamarine;
+
+}
+#carinfo{
+    background-color: rgb(235, 184, 16);
+    padding-top: 100;
+    padding-right: 300;
+    font-size: 29;
+    box-sizing: border-box;
+}
+h2{
+    text-align: center;
+    font-weight: 10000;
+    font-size: 50;
+    color: blue;
+    font
+    text-shadow: 2px 2px 5px red;    
+}
